@@ -29,6 +29,13 @@
 =
 （排名不分先后）<br>
 
+**293、EarTrumpet：一个基于.Net开发的专为Windows系统设计开源的音量控制开源工具。(EarTrumpet)**:一个系统托盘工具，通过可视化音频波形和多通道支持，为用户提供对应用程序音量的精细控制。
+
+它允许用户为每个应用程序单独调整音量，并支持将应用程序的音频输出切换到不同的设备。
+<br>
+Github：https://github.com/File-New-Project/EarTrumpet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/cONvi8eKPXyOnnWZiRDNRg)
+
 **292、FluentCMS：基于ASP.NETCore和Blazor技术构建的开源CMS内容管理系统(FluentCMS)**:FluentCMS 是一个基于强大的 ASP.NET Core 和创新的 Blazor 技术构建的现代内容管理系统（CMS）。
 FluentCMS 设计为快速、灵活且用户友好，它不仅是一个传统的基于内容的 CMS，还是一个无头（Headless）CMS ，使其非常适合各种应用场景。
 此项目还在开发中，还有部分问题，可以当着学习项目。
